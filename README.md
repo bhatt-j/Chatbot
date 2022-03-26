@@ -1,4 +1,4 @@
-### ChatBot 
+### ChatBot - Sentimental Analysis
 
 A simple chatbot application developed using python. Main objective of this chatbot is to analyze the sentiment of the user and behave accordingly.
 Hence, this provides the sentimental analysis. Detects the users sentiments if they are happy, sad, angry or neutral.
